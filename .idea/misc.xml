@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/btn_bg.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/fade_graph.xml" value="0.153" />
+        <entry key="app/src/main/res/drawable/fade_graph_2.xml" value="0.153" />
+        <entry key="app/src/main/res/drawable/ic_security.xml" value="0.164" />
+        <entry key="app/src/main/res/drawable/input_bg.xml" value="0.164" />
+        <entry key="app/src/main/res/layout/activity_data.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_display.xml" value="0.14322916666666666" />
+        <entry key="app/src/main/res/layout/activity_first.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2150039672851562" />
+        <entry key="app/src/main/res/layout/feed_card_item.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_gas.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_temp.xml" value="0.16770833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
